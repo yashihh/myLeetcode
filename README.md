@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashihh/myLeetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/yashihh/myLeetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -35,5 +36,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashihh/myLeetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/yashihh/myLeetcode/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/yashihh/myLeetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/yashihh/myLeetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
