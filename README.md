@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yashihh/myLeetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/yashihh/myLeetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/yashihh/myLeetcode/tree/master/0344-reverse-string) |
 ## Simulation
@@ -55,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/yashihh/myLeetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/yashihh/myLeetcode/tree/master/0283-move-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yashihh/myLeetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
